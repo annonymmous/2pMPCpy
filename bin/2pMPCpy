@@ -1,0 +1,12 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# vim: ai ts=4 sts=4 et sw=4 nu
+"""
+:Author: Tom Fuerstner
+:Copyright: 2020 RIDDLE&CODE
+"""
+import 2pMPCpy
+
+if __name__ == "__main__":
+    # 2pMPCpy.main()
+    exit(0)
