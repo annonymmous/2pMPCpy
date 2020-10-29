@@ -15,11 +15,11 @@ It is an initial reimplementation in Python to learn about and experiment with S
 
 *Should be compatible with Python >= 3.4.*
 
-Built as an extension to ECPy: http://cslashm.github.io/ECPy/
+Built as an extension to [ECPy](http://cslashm.github.io/ECPy/).
 
-Paillier Partially Homomorphic Encryption is based on: https://github.com/mikeivanov/paillier
+Paillier Partially Homomorphic Encryption is based on: [Paillier for Python](https://github.com/mikeivanov/paillier).
 
-This is explanatory code and not meant for production use
+This is explanatory code and not meant for production use.
  
 ## Author & Licence
 
