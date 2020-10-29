@@ -6,7 +6,7 @@ This project aims to provide a reference implementation of a secure multiparty c
 
 ## Implementation 
 
-The 2P-ECDSA implementation is based on a [blog entry by Nick Money ] (https://duo.com/labs/tech-notes/2p-ecdsa-explained) about two-party threshold ECDSA proposed by Yehuda Lindell of Bar-Ilan University.
+The 2P-ECDSA implementation is based on a [blog entry by Nick Money ](https://duo.com/labs/tech-notes/2p-ecdsa-explained) about two-party threshold ECDSA proposed by Yehuda Lindell of Bar-Ilan University.
 
 It is an initial reimplementation in Python to learn about and experiment with SMPC variations of partial signing for a next iteration of hardware wallets. Basically built around the tremendous benefit of MPC helping to avoid sending around secrets over networks or to expose secrets and key material over bus systems or during execution within main memory. 
 
