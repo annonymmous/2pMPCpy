@@ -15,6 +15,8 @@ It is an initial reimplementation in Python to learn about and experiment with S
 Replace Mike Ivanov's implementation with [Paillier-gmpy2](https://github.com/mnassar/paillier-gmpy2/tree/master/py3)
 
 
+## Remarks
+
 *Should be compatible with Python >= 3.4.*
 
 Built as an extension to ECPy: http://cslashm.github.io/ECPy/
