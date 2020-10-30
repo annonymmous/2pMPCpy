@@ -10,7 +10,9 @@ The 2P-ECDSA implementation is based on a [blog entry by Nick Money|https://duo.
 
 It is an initial reimplementation in Python to learn about and experiment with SMPC variations of partial signing for a next iteration of hardware wallets. Basically built around the tremendous benefit of MPC helping to avoid sending around secrets over networks or to expose secrets and key material over bus systems or during execution within main memory. 
 
+## ToDo
 
+Replace Mike Ivanov's implementation with [Paillier-gmpy2](https://github.com/mnassar/paillier-gmpy2/tree/master/py3)
 
 
 *Should be compatible with Python >= 3.4.*
