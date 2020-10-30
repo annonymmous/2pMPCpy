@@ -14,7 +14,7 @@ It is an initial reimplementation in Python to learn about and experiment with S
 
 Replace Mike Ivanov's implementation with [Paillier-gmpy2](https://github.com/mnassar/paillier-gmpy2/tree/master/py3)
 
-Add Zero Knowledge proofs to Paillier's encryption to avoid malicious actors based on (simple-zk-proofs)[https://github.com/amiller/python-zk-proofs/blob/master/simple-zk-proofs.py]
+Add Zero Knowledge proofs to Paillier's encryption to avoid malicious actors based on [simple-zk-proofs](https://github.com/amiller/python-zk-proofs/blob/master/simple-zk-proofs.py)
 
 
 ## Remarks
